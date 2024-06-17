@@ -46,7 +46,6 @@ nyanmisaka/jellyfin
 yunyoujun/cook
 jrohy/webssh
 luchenqun/mybookmark
-onething1/wxedge:2.4.3
 wangbinxingkong/fast
 sanjusss/aliyun-ddns
 redis:6.2-alpine@sha256
